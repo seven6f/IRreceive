@@ -12,7 +12,7 @@ void setup()
   IrReceiver.begin(receiverPin,true);
 
   //どのピンをどうするか 
-  pinMode(ledPin,OUTPUT); 
+  //pinMode(ledPin,OUTPUT); 
 }
 void loop()
 {
